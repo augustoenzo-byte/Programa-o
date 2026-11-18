@@ -8,6 +8,7 @@ sample_rate = 44100
 oitavas = 5  
 menoroitava = 2  
 FADEOUT = duracao  
+
 teclasbrancas = ["C","D","E","F","G","A","B",]
 teclaspretas = ["C#", "D#", "F#", "G#", "A#"]
 
